@@ -8,3 +8,40 @@
 [2023-10-17 13:58:43.959]	local.info	gin_api2/main.go:18	log init success!!!
 [2023-10-17 13:58:44.073]	local.info	gin_api2/main.go:18	log init success!!!
 [2023-10-17 13:58:48.726]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:31:40.044]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:31:41.793]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:32:31.763]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:32:33.315]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:34:01.836]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:34:03.387]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:34:32.805]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:36:06.697]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:36:23.585]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:36:25.344]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:36:51.010]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:36:52.532]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:36:54.152]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:37:00.633]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:37:09.946]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:37:54.419]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:45:06.181]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:45:07.758]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:45:21.920]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:45:36.279]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:45:37.779]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:45:44.909]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:46:06.318]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:46:08.073]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:47:07.044]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:47:07.054]	local.error	bootstrap/db.go:50	mysql connect failed, err:	{"err": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+[2023-10-17 14:47:07.143]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:47:07.151]	local.error	bootstrap/db.go:50	mysql connect failed, err:	{"err": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+[2023-10-17 14:48:02.898]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:48:02.918]	local.error	bootstrap/db.go:50	mysql connect failed, err:	{"err": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+[2023-10-17 14:48:05.589]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:48:05.600]	local.error	bootstrap/db.go:50	mysql connect failed, err:	{"err": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+[2023-10-17 14:48:50.403]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:48:50.411]	local.error	bootstrap/db.go:50	mysql connect failed, err:	{"err": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+[2023-10-17 14:49:06.466]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 14:49:06.473]	local.error	bootstrap/db.go:50	mysql connect failed, err:	{"err": "Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+[2023-10-17 14:49:44.177]	local.info	gin_api2/main.go:18	log init success!!!

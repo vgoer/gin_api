@@ -1,1 +1,1 @@
-vgoer/gin_api: go build vgoer/gin_api: build output "tmp\\runner-build.exe" already exists and is not an object file
+vgoer/gin_api: go build vgoer/gin_api: copying C:\Users\vgoer\AppData\Local\Temp\go-build1042792284\b001\exe\a.out.exe: open tmp\runner-build.exe: The process cannot access the file because it is being used by another process.

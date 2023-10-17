@@ -1,0 +1,24 @@
+
+2023/10/17 14:49:44 D:/MyProject/go_react_test/gin_api2/bootstrap/db.go:63
+[0.000ms] [rows:-] SELECT DATABASE()
+
+2023/10/17 14:49:44 D:/MyProject/go_react_test/gin_api2/bootstrap/db.go:63
+[0.522ms] [rows:1] SELECT SCHEMA_NAME from Information_schema.SCHEMATA where SCHEMA_NAME LIKE 'gin_react%' ORDER BY SCHEMA_NAME='gin_react' DESC,SCHEMA_NAME limit 1
+
+2023/10/17 14:49:44 D:/MyProject/go_react_test/gin_api2/bootstrap/db.go:63
+[0.519ms] [rows:-] SELECT count(*) FROM information_schema.tables WHERE table_schema = 'gin_react' AND table_name = 'users' AND table_type = 'BASE TABLE'
+
+2023/10/17 14:49:44 D:/MyProject/go_react_test/gin_api2/bootstrap/db.go:63
+[4.366ms] [rows:0] CREATE TABLE `users` (`id` bigint unsigned AUTO_INCREMENT,`name` varchar(191) NOT NULL COMMENT '用户名称',`mobile` varchar(191) NOT NULL COMMENT '用户手机号',`password` varchar(191) NOT NULL DEFAULT '' COMMENT '用户密码',`created_at` datetime NULL,`updated_at` datetime NULL,`deleted_at` datetime NULL,PRIMARY KEY (`id`),INDEX `idx_users_mobile` (`mobile`),INDEX `idx_users_deleted_at` (`deleted_at`))
+
+2023/10/17 14:49:44 D:/MyProject/go_react_test/gin_api2/bootstrap/db.go:63
+[0.000ms] [rows:-] SELECT DATABASE()
+
+2023/10/17 14:49:44 D:/MyProject/go_react_test/gin_api2/bootstrap/db.go:63
+[0.000ms] [rows:1] SELECT SCHEMA_NAME from Information_schema.SCHEMATA where SCHEMA_NAME LIKE 'gin_react%' ORDER BY SCHEMA_NAME='gin_react' DESC,SCHEMA_NAME limit 1
+
+2023/10/17 14:49:44 D:/MyProject/go_react_test/gin_api2/bootstrap/db.go:63
+[0.588ms] [rows:-] SELECT count(*) FROM information_schema.tables WHERE table_schema = 'gin_react' AND table_name = 'admins' AND table_type = 'BASE TABLE'
+
+2023/10/17 14:49:44 D:/MyProject/go_react_test/gin_api2/bootstrap/db.go:63
+[3.511ms] [rows:0] CREATE TABLE `admins` (`id` bigint unsigned AUTO_INCREMENT,`username` varchar(191),`password` varchar(191),`mobile` varchar(191) NOT NULL COMMENT '用户手机号',`token` varchar(191) COMMENT 'token',`created_at` datetime NULL,`updated_at` datetime NULL,`deleted_at` datetime NULL,PRIMARY KEY (`id`),INDEX `idx_admins_mobile` (`mobile`),INDEX `idx_admins_deleted_at` (`deleted_at`))
