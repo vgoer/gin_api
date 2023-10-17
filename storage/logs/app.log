@@ -1,0 +1,10 @@
+[2023-10-17 13:57:52.517]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 13:57:52.536]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 13:58:11.633]	local.error	gin_api2/main.go:18	log init success!!!
+[2023-10-17 13:58:11.727]	local.error	gin_api2/main.go:18	log init success!!!
+[2023-10-17 13:58:13.221]	local.error	gin_api2/main.go:18	log init success!!!
+[2023-10-17 13:58:13.333]	local.error	gin_api2/main.go:18	log init success!!!
+[2023-10-17 13:58:42.365]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 13:58:43.959]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 13:58:44.073]	local.info	gin_api2/main.go:18	log init success!!!
+[2023-10-17 13:58:48.726]	local.info	gin_api2/main.go:18	log init success!!!
