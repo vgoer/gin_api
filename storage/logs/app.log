@@ -144,3 +144,186 @@
 [2023-10-18 11:59:57.014]	local.info	gin_api2/main.go:15	log init success!!!
 [2023-10-18 12:01:52.811]	local.info	gin_api2/main.go:15	log init success!!!
 [2023-10-18 12:02:20.464]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 09:44:36.624]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 09:44:36.738]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 09:48:09.053]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 09:48:09.151]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:03:55.546]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:03:55.647]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:08:42.158]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:08:42.265]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:08:52.337]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:08:52.442]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:10:24.510]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:10:24.616]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:10:25.945]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:10:26.046]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:10:54.319]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:10:54.431]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:10:55.781]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:10:55.881]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:12:42.948]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:12:43.062]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:14:25.850]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:14:25.961]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:14:58.455]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:14:58.570]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:15:00.269]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:15:00.371]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:15:01.886]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:15:01.990]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:15:03.595]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:15:03.702]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:15:30.893]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:15:30.995]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:15:32.660]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:15:32.780]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:16:36.025]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:16:36.135]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:16:37.569]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:16:37.679]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:17:57.857]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:17:57.956]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:17:59.547]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:17:59.651]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:18:20.492]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:18:20.597]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:18:22.168]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:18:22.265]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:19:14.778]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:19:14.784]	local.error	bootstrap/db.go:50	mysql connect failed, err:	{"err": "dial tcp 127.0.0.1:3307: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:19:14.876]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:19:49.525]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:19:49.632]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:20:13.234]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:20:13.240]	local.error	bootstrap/db.go:50	mysql connect failed, err:	{"err": "Error 1049 (42000): Unknown database 'gin_reac'"}
+[2023-10-21 10:20:13.326]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:21:03.493]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:21:03.604]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:21:04.910]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:21:05.021]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:22:08.744]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:22:08.846]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+[2023-10-21 10:29:04.670]	local.info	gin_api2/main.go:15	log init success!!!
+[2023-10-21 10:29:04.677]	local.error	bootstrap/db.go:50	mysql connect failed, err:	{"err": "Error 1049 (42000): Unknown database 'gin_r'"}
+[2023-10-21 10:29:04.761]	local.error	bootstrap/redis.go:20	Redis connect ping failed, err:	{"err": "dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+
+
+[31m2023/10/21 10:29:09 [Recovery] 2023/10/21 - 10:29:09 panic recovered:
+POST /api/user/auth/register?invoice_status=0&page_size=10&page_number=1 HTTP/1.1
+Host: 127.0.0.1:888
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 81
+Content-Type: text/plain
+Token: eyJpdiI6IlZ6VnVlNHI3NHhVK3UweklLSEdaTHc9PSIsInZhbHVlIjoienlER0liVUhrUmZMbVhwOUVOZkdIUGFTaU1hTU1ZaHozZEpwVERxWFVWVT0iLCJtYWMiOiJjZTA3ZDY3MmVmNDBhZWViNzM0Nzg1ZmUxMmVkMDU5MzYyMjZhNGJiMjk5YjgxMWQyNTc0ZDNmYjJjZDY2N2RjIn0=
+User-Agent: Apifox/1.0.0 (https://apifox.com)
+
+
+runtime error: invalid memory address or nil pointer dereference
+D:/Golang/src/runtime/panic.go:261 (0x3cf566)
+	panicmem: panic(memoryError)
+D:/Golang/src/runtime/signal_windows.go:364 (0x3cf536)
+	sigpanic: panicmem()
+C:/Users/vgoer/go/pkg/mod/gorm.io/gorm@v1.25.5/gorm.go:399 (0x966692)
+	(*DB).getInstance: if db.clone > 0 {
+C:/Users/vgoer/go/pkg/mod/gorm.io/gorm@v1.25.5/chainable_api.go:201 (0x95c775)
+	(*DB).Where: tx = db.getInstance()
+D:/MyProject/go_react_test/gin_api2/app/services/user.go:19 (0xb0add5)
+	(*userService).Register: var result = global.App.DB.Where("mobile = ?", params.Mobile).Select("id").First(&models.User{})
+D:/MyProject/go_react_test/gin_api2/app/controller/UserController.go:25 (0xb0c31d)
+	UserController.Register: if err, user := services.UserService.Register(form); err != nil {
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf9e99)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102 (0xaf9e87)
+	CustomRecoveryWithWriter.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf903d)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240 (0xaf900c)
+	LoggerWithConfig.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf903d)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240 (0xaf900c)
+	LoggerWithConfig.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf9e99)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102 (0xaf9e87)
+	CustomRecoveryWithWriter.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf903d)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240 (0xaf900c)
+	LoggerWithConfig.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf813a)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620 (0xaf7dcd)
+	(*Engine).handleHTTPRequest: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576 (0xaf78fc)
+	(*Engine).ServeHTTP: engine.handleHTTPRequest(c)
+D:/Golang/src/net/http/server.go:2938 (0x65568d)
+	serverHandler.ServeHTTP: handler.ServeHTTP(rw, req)
+D:/Golang/src/net/http/server.go:2009 (0x651573)
+	(*conn).serve: serverHandler{c.server}.ServeHTTP(w, w.req)
+D:/Golang/src/runtime/asm_amd64.s:1650 (0x3eb8a0)
+	goexit: BYTE	$0x90	// NOP
+[0m
+
+
+[31m2023/10/21 10:31:35 [Recovery] 2023/10/21 - 10:31:35 panic recovered:
+POST /api/user/auth/register?invoice_status=0&page_size=10&page_number=1 HTTP/1.1
+Host: 127.0.0.1:888
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 81
+Content-Type: text/plain
+Token: eyJpdiI6IlZ6VnVlNHI3NHhVK3UweklLSEdaTHc9PSIsInZhbHVlIjoienlER0liVUhrUmZMbVhwOUVOZkdIUGFTaU1hTU1ZaHozZEpwVERxWFVWVT0iLCJtYWMiOiJjZTA3ZDY3MmVmNDBhZWViNzM0Nzg1ZmUxMmVkMDU5MzYyMjZhNGJiMjk5YjgxMWQyNTc0ZDNmYjJjZDY2N2RjIn0=
+User-Agent: Apifox/1.0.0 (https://apifox.com)
+
+
+runtime error: invalid memory address or nil pointer dereference
+D:/Golang/src/runtime/panic.go:261 (0x3cf566)
+	panicmem: panic(memoryError)
+D:/Golang/src/runtime/signal_windows.go:364 (0x3cf536)
+	sigpanic: panicmem()
+C:/Users/vgoer/go/pkg/mod/gorm.io/gorm@v1.25.5/gorm.go:399 (0x966692)
+	(*DB).getInstance: if db.clone > 0 {
+C:/Users/vgoer/go/pkg/mod/gorm.io/gorm@v1.25.5/chainable_api.go:201 (0x95c775)
+	(*DB).Where: tx = db.getInstance()
+D:/MyProject/go_react_test/gin_api2/app/services/user.go:19 (0xb0add5)
+	(*userService).Register: var result = global.App.DB.Where("mobile = ?", params.Mobile).Select("id").First(&models.User{})
+D:/MyProject/go_react_test/gin_api2/app/controller/UserController.go:25 (0xb0c31d)
+	UserController.Register: if err, user := services.UserService.Register(form); err != nil {
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf9e99)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102 (0xaf9e87)
+	CustomRecoveryWithWriter.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf903d)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240 (0xaf900c)
+	LoggerWithConfig.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf903d)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240 (0xaf900c)
+	LoggerWithConfig.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf9e99)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/recovery.go:102 (0xaf9e87)
+	CustomRecoveryWithWriter.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf903d)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/logger.go:240 (0xaf900c)
+	LoggerWithConfig.func1: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 (0xaf813a)
+	(*Context).Next: c.handlers[c.index](c)
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620 (0xaf7dcd)
+	(*Engine).handleHTTPRequest: c.Next()
+C:/Users/vgoer/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576 (0xaf78fc)
+	(*Engine).ServeHTTP: engine.handleHTTPRequest(c)
+D:/Golang/src/net/http/server.go:2938 (0x65568d)
+	serverHandler.ServeHTTP: handler.ServeHTTP(rw, req)
+D:/Golang/src/net/http/server.go:2009 (0x651573)
+	(*conn).serve: serverHandler{c.server}.ServeHTTP(w, w.req)
+D:/Golang/src/runtime/asm_amd64.s:1650 (0x3eb8a0)
+	goexit: BYTE	$0x90	// NOP
+[0m

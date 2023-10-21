@@ -24,7 +24,7 @@ func main() {
 	global.App.Redis = bootstrap.InitializeRedis()
 
 	// 初始化文件系统
-	bootstrap.InitializeStorage()
+	// bootstrap.InitializeStorage()
 
 	// 程序关闭前，释放数据库连接
 	defer func() {
